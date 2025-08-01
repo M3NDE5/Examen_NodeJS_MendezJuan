@@ -1,0 +1,24 @@
+[
+  {
+    "doctorCode": "D001",
+    "docNombre": "Gabriel",
+    "docApellido": "Mendez Pardo",
+    "docEmail": "mpardo@mail.com",
+    "docAtive": true,
+    "docOffice": true,
+    "docDiagnosticos": {
+      "primerDiag": "Infección en la piel."
+    }
+  },
+  {
+    "doctorCode": "D002",
+    "docNombre": "Juana",
+    "docApellido": "Levi Zuñiga",
+    "docEmail": "jlevi@mail.com",
+    "docAtive": true,
+    "docOffice": true,
+    "docDiagnosticos": {
+      "primerDiag": "Sobrepeso y reflujo."
+    }
+  }
+]
